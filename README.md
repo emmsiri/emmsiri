@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @emmsiri
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning communication engineering
+- 👋 Hi, I’m emmsiri
+- 👀 I’m well trained programmer and software architect who interested in changing ideas to systems.
 - 💞️ I’m looking to collaborate on technology
 - 📫 How to reach me 
 
